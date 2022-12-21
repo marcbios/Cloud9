@@ -3,7 +3,7 @@
 db_root_password=stack-root-rukayat
 db_username=stack-rukayat-dbuser
 db_user_password=Stackinc-11
-db_name=wordpress-rukayat-db
+db_name=wordpress_rukayat_db
 
 mysql -sfu root <<EOS
 -- set root password
