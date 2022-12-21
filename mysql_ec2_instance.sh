@@ -1,9 +1,6 @@
 #!/bin/bash
 
 db_root_password=Stackinc@11-root
-db_username=stack_wordpress_marcus
-db_user_password=Stackinc@11-user
-db_name=stack_jul22_mar_wp_db
 
 mysql -sfu root <<EOS
 -- set root password
